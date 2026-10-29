@@ -1,0 +1,10 @@
+Without Git:
+Make copies of all the relevant files to avoid impacting the live version
+Start working with the design and find that code depend on code in other files, that also need to be changed!
+Make copies of the dependant files as well. Making sure that every file dependency references the correct file name
+EMERGENCY! There is an unrelated error somewhere else in the project that needs to be fixed ASAP!
+Save all your files, making a note of the names of the copies you were working on
+Work on the unrelated error and update the code to fix it
+Go back to the design, and finish the work there
+Copy the code or rename the files, so the updated design is on the live version
+(2 weeks later, you realize that the unrelated error was not fixed in the new design version because you copied the files before the fix)
